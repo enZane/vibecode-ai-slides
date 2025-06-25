@@ -1,0 +1,7 @@
+{
+    "// Note: This project uses Context7 MCP for getting the latest library documentation": true,
+    "// Context7 is configured in mcp.json and provides up-to-date docs for Slidev and other libraries": true,
+    "// Use Context7 MCP commands to get the latest documentation when working with this project": true,
+    
+    "slidev.notes": "Remember to use Context7 MCP for getting the latest Slidev documentation and features. The Context7 MCP server is configured in mcp.json and provides comprehensive, up-to-date documentation for Slidev themes, animations, components, and features."
+}
